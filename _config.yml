@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Random Thoughts, Composed
-description: Random Thoughts, Composed
+remote_theme: pages-themes/cayman@v0.2.0
+title: Git Tales
+description: Tales about the fearless SmartGitty
+plugins:
+- jekyll-remote-theme
