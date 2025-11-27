@@ -1,13 +1,15 @@
 ---
 layout: post
 title: History is Haunting me
+date:   2025-11-17 09:46:19 +0100
+categories: git smartgitty firstpost
 ---
 
 I'm in the process of building an improvement in smartgit (more about it maybe at some other time).
 
 As it so happens, I'm quite new to this codebase, language, standard library and whatnot - you could say I'm a total beginner here, which means learning this stuff on the go is the name of the game. No problem per se, but producing some readable, well-fitting code in the process is a bit of a challenge.
 
-It's even more challenging to do so while not producing only a single commit in the end (which would've turned out too big to be reviewable), but a clean commit history where every commit tells the chapter of a story [link to sasa-talk tell me a story].
+It's even more challenging to do so while not producing only a single commit in the end (which would've turned out too big to be reviewable), but a clean commit history where every commit tells [the chapter of a story](https://content.subvisual.com/talk-roundtable/sasa-juric-tell-me-a-story/).
 
 Learning on the go, as you know, involves a lot of exploration and even more backtracking. There's areas to get to know, concepts to learn, patterns to detect (in various flavours, as an established codebase wasn't built in a day), new language features to come accustomed to (and other language features you find missing, only to find out the idiomatic way to perform the same in the new language), and so on.
 
