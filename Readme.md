@@ -1,1 +1,0 @@
-# Tales about git
