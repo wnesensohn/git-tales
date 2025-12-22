@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tales about Git, as experienced by the fearless hero with the softest
   paws, SmartGitty
 baseurl: "/git-tales" # the subpath of your site, e.g. /blog
-url: "https://random-thoughts-composed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wnesensohn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wnesensohn
 
 # Build settings
